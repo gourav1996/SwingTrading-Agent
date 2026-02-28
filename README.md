@@ -1,4 +1,4 @@
-# 📈 Indian Stock Market Swing Trading Syndicate
+# 📈 Indian Stock Market Swing Trading Agent
 
 A production-ready, multi-agent artificial intelligence system designed to automate the screening, fundamental analysis, and risk management of Indian mid-cap and small-cap equities. 
 
